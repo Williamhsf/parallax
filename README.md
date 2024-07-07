@@ -1,8 +1,7 @@
 # Projeto Inicial
 <div align="center">
-  <video width="320" height="240" autoplay muted>
-    <source src="./video/layout.mp4" type="video/mp4">
-  </video>
+  <img src="./img/layout1.png" width="500px" alt="página inicial"/>
+  <img src="./img/layout2.png" width="500px" alt="página inicial"/>
 </div>
 
 Este projeto de um site de um Parallax uma implementação inicial criada em colaboração com o professor Jorge Sant Ana. Foi desenvolvido como parte do curso **Domine Web - 20 Cursos - HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP, OO, MySQL, JQuery, MVC, APIs, IONIC e muito mais** disponível na [Udemy](https://www.udemy.com/course/web-completo/).
